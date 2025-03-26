@@ -1,6 +1,4 @@
-Dans webshop ER diagram.
+Dance courses webshop ER diagram.
 https://dbdiagram.io/d/Dans-webshop-67e3f2904f7afba1844a46aa
 
-Mina försök av vanlig hemsida er diagram: 
-https://dbdiagram.io/d/TechGearWebshopERDiagram-679a3cb9263d6cf9a06ab356
 
